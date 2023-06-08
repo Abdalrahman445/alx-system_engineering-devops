@@ -1,2 +1,2 @@
 #!/bin/bash
-for f in *.html do  cp -v "$f"  /../../alx-system_engineering-devops/"${f%.html}".html done
+for f in *.html; do   cp -v "$f"  ../../alx-system_engineering-devops/"${f%.html}".html; done
