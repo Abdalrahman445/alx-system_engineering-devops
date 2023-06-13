@@ -1,2 +1,2 @@
 #!/bin/bash
-wc -l count 
+wc -l "$( ls -Rd -a)"
