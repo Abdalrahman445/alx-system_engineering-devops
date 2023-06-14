@@ -1,1 +1,45 @@
-.
+.:
+total 60
+drwxr-xr-x 6 root root 4096 Jun 14 07:33 .
+drwxr-xr-x 6 root root  121 Jun 13 06:53 ..
+-rwxr-xr-x 1 root root   32 Jun 13 06:59 0-hello_world
+-rwxr-xr-x 1 root root   41 Jun 13 09:36 10-no_more_js
+-rwxr-xr-x 1 root root   53 Jun 14 07:32 11-directories
+-rwxr-xr-x 1 root root   27 Jun 14 07:16 1-confused_smiley
+-rwxr-xr-x 1 root root   29 Jun 13 07:07 2-hellofile
+drwxr-xr-x 2 root root    6 Jun 14 07:33 3
+-rwxr-xr-x 1 root root   39 Jun 13 07:11 3-twofiles
+-rwxr-xr-x 1 root root   30 Jun 13 07:16 4-lastlines
+-rwxr-xr-x 1 root root   30 Jun 13 07:17 5-firstlines
+-rwxr-xr-x 1 root root   37 Jun 13 09:04 6-third_line
+-rwxr-xr-x 1 root root  100 Jun 13 09:34 7-file
+-rwxr-xr-x 1 root root   36 Jun 13 07:38 8-cwd_state
+-rwxr-xr-x 1 root root   38 Jun 13 09:35 9-duplicate_last_line
+-rw-r--r-- 1 root root    0 Jun 14 07:34 count
+-rw-r--r-- 1 root root    0 Jun 13 09:39 dl.js
+-rw-r--r-- 1 root root  801 Jun 13 08:24 iacta
+-rw-r--r-- 1 root root    0 Jun 13 07:37 ls_cwd_content
+-rw-r--r-- 1 root root    8 Jun 13 06:53 README.md
+drwxr-xr-x 2 root root    6 Jun 13 09:42 test
+drwxr-xr-x 2 root root    6 Jun 14 07:28 test2
+drwxr-xr-x 2 root root    6 Jun 14 07:33 test3
+
+./3:
+total 4
+drwxr-xr-x 2 root root    6 Jun 14 07:33 .
+drwxr-xr-x 6 root root 4096 Jun 14 07:33 ..
+
+./test:
+total 4
+drwxr-xr-x 2 root root    6 Jun 13 09:42 .
+drwxr-xr-x 6 root root 4096 Jun 14 07:33 ..
+
+./test2:
+total 4
+drwxr-xr-x 2 root root    6 Jun 14 07:28 .
+drwxr-xr-x 6 root root 4096 Jun 14 07:33 ..
+
+./test3:
+total 4
+drwxr-xr-x 2 root root    6 Jun 14 07:33 .
+drwxr-xr-x 6 root root 4096 Jun 14 07:33 ..
