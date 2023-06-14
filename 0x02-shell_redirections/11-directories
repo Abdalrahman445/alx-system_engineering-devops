@@ -1,2 +1,2 @@
 #!/bin/bash
-wc -l "$( ls -Rd -a)"
+ | wc -l 
