@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lRa > count |grep "./" count |wc -l 
+ls -lRa | grep "./" | wc -l  
